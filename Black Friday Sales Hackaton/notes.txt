@@ -1,0 +1,2 @@
+attempt 1 yielding r squared = 4.7 using gboost
+attemp 2 yielding r squared =6.3 using random forest reg
