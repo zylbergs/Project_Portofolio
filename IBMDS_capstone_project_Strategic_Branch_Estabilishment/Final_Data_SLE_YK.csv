@@ -1,0 +1,132 @@
+Regency,Sub_District,Village,Latitude,Longitude,Number_College_Venues,Number_Office_Venues,Number_Coffee_Venues,Cluster_Label
+Sleman,Berbah,Jogotirto,-7.8129504,110.47205994397919,2,0,1,0
+Sleman,Berbah,Kalitirto,-7.795132199999999,110.45535821765259,4,0,0,0
+Sleman,Berbah,Sendangtirto,-7.82044215,110.43136629566453,8,0,2,0
+Sleman,Berbah,Tegaltirto,-7.805422500000001,110.44172488085177,13,0,0,0
+Sleman,Cangkringan,Argomulyo,-7.6706097,110.45745915046099,0,0,0,0
+Sleman,Cangkringan,Glagaharjo,-7.62522955,110.46768107597262,0,0,0,0
+Sleman,Cangkringan,Kepuharjo,-7.6254682,110.4525964,1,0,1,0
+Sleman,Cangkringan,Wukirsari,-7.6520334000000005,110.44680550283302,0,0,0,0
+Sleman,Cangkringan,Umbulharjo,-7.8143777,110.38737370991501,20,9,12,1
+Sleman,Depok,Caturtunggal,-7.7673976499999995,110.38849155,28,16,30,1
+Sleman,Depok,Condongcatur,-7.7541293,110.40061938064383,4,13,13,1
+Sleman,Depok,Maguwoharjo,-7.7686938,110.4327364,7,1,4,0
+Sleman,Gamping,Ambarketawang,-7.8014489,110.3218737,11,0,5,0
+Sleman,Gamping,Balecatur,-7.8078411,110.3037379,8,1,1,0
+Sleman,Gamping,Banyuraden,-7.79162,110.3388925,2,0,2,0
+Sleman,Gamping,Nogotirto,-7.770258500000001,110.33581391920681,7,1,4,0
+Sleman,Gamping,Trihanggo,-7.7571187,110.3517176,12,1,5,0
+Sleman,Godean,Sidoagung,-7.76618085,110.29834600699846,3,1,3,0
+Sleman,Godean,Sidoarum,-7.7732136,110.3276793,3,1,10,0
+Sleman,Godean,Sidokarto,-7.77627705,110.30415895653019,11,0,6,0
+Sleman,Godean,Sidoluhur,-7.7689508499999995,110.28157568890384,3,0,2,0
+Sleman,Godean,Sidomoyo,-7.7600099,110.31825080990846,0,0,0,0
+Sleman,Godean,Sidomulyo,-7.7839938,110.152508,0,0,0,0
+Sleman,Godean,Sidorejo,-7.7492391,110.2856145,1,0,0,0
+Sleman,Kalasan,Purwomartani,-7.75818705,110.45557069767904,2,0,0,0
+Sleman,Kalasan,Selomartani,-7.72417035,110.46197823338574,1,0,0,0
+Sleman,Kalasan,Tamanmartani,-7.7391953,110.48179089439753,0,0,3,0
+Sleman,Kalasan,Tirtomartani,-7.7592909500000005,110.47129089057242,9,2,3,0
+Sleman,Minggir,Sendangagung,-7.726428,110.2451237,1,0,0,0
+Sleman,Minggir,Sendangarum,-7.74538965,110.25286537366479,0,0,0,0
+Sleman,Minggir,Sendangmulyo,-7.7426899,110.23538416199597,0,0,0,0
+Sleman,Minggir,Sendangrejo,-7.7272268,110.26945289123785,0,0,1,0
+Sleman,Minggir,Sendangsari,-7.721016499999999,110.25439452483428,0,0,1,0
+Sleman,Mlati,Sendangadi,-7.7337165,110.3689073,3,2,6,0
+Sleman,Mlati,Sinduadi,-7.7582322,110.3727371,32,5,13,1
+Sleman,Mlati,Sumberadi,-7.7212094,110.3378185,2,0,3,0
+Sleman,Mlati,Tirtoadi,-7.7464001,110.3310165,2,0,1,0
+Sleman,Mlati,Tlogoadi,-7.7329816,110.3475649,4,0,3,0
+Sleman,Moyudan,Sumberagung,-7.7629521,110.25366533028875,5,0,7,0
+Sleman,Moyudan,Sumberarum,-7.7661535,110.2408898,3,0,1,0
+Sleman,Moyudan,Sumberrahayu,-7.795372,110.2523454,0,0,0,0
+Sleman,Moyudan,Sumbersari,-7.78265475,110.27326110245292,0,0,0,0
+Sleman,Ngaglik,Donoharjo,-7.6875954,110.3886959,4,0,2,0
+Sleman,Ngaglik,Minomartani,-7.7345297,110.4075393,3,2,2,0
+Sleman,Ngaglik,Sardonoharjo,-7.7005804,110.4026509,1,0,4,0
+Sleman,Ngaglik,Sariharjo,-7.7287731,110.3798033768702,4,3,6,0
+Sleman,Ngaglik,Sinduharjo,-7.7221769,110.4109855,3,1,0,0
+Sleman,Ngaglik,Sukoharjo,-7.6986524,110.4302895,10,3,8,0
+Sleman,Ngemplak,Bimomartani,-7.70115725,110.46300498619578,5,0,2,0
+Sleman,Ngemplak,Sindumartani,-7.695977,110.4759792,0,0,2,0
+Sleman,Ngemplak,Umbulmartani,-7.68444,110.4352525,1,1,3,0
+Sleman,Ngemplak,Wedomartani,-7.7291658,110.4328328,6,0,0,0
+Sleman,Ngemplak,Widodomartani,-7.69616745,110.44900182105039,1,1,2,0
+Sleman,Pakem,Candibinangun,-7.65739945,110.40172490564365,0,0,0,0
+Sleman,Pakem,Hargobinangun,-7.59551805,110.43075988654293,6,1,9,0
+Sleman,Pakem,Harjobinangun,-7.6694491,110.4114568,2,1,2,0
+Sleman,Pakem,Pakembinangun,-7.657996600000001,110.42247583919158,4,2,4,0
+Sleman,Pakem,Purwobinangun,-7.6255927,110.4072227139759,1,0,0,0
+Sleman,Prambanan,Bokoharjo,-7.76428525,110.48924538625454,10,0,2,0
+Sleman,Prambanan,Gayamharjo,-7.80754245,110.53530722247177,0,0,0,0
+Sleman,Prambanan,Madurejo,-7.79371975,110.48433401214166,4,0,2,0
+Sleman,Prambanan,Sambirejo,-7.7835024,110.50669735400726,0,0,2,0
+Sleman,Prambanan,Sumberharjo,-7.80863675,110.49734488528772,0,0,2,0
+Sleman,Prambanan,Wukirharjo,-7.8142312,110.51819832251056,0,0,0,0
+Sleman,Seyegan,Margoagung,-7.705851450000001,110.30340380066312,3,0,1,0
+Sleman,Seyegan,Margodadi,-7.73338605,110.2940325129801,0,0,1,0
+Sleman,Seyegan,Margokaton,-7.7165055,110.296628,1,0,2,0
+Sleman,Seyegan,Margoluwih,-7.75283635,110.30093768502738,0,0,0,0
+Sleman,Seyegan,Margomulyo,-7.7181137500000006,110.3152180534239,1,0,0,0
+Sleman,Sleman,Caturharjo,-7.688233,110.32577830583541,1,0,0,0
+Sleman,Sleman,Pandowoharjo,-7.69831385,110.36987562628315,3,0,0,0
+Sleman,Sleman,Tridadi,-7.7139519,110.3605194,3,6,6,0
+Sleman,Sleman,Triharjo,-7.6945594,110.3502065,5,4,4,0
+Sleman,Sleman,Trimulyo,-7.68120925,110.35944667385479,0,0,1,0
+Sleman,Tempel,Banyurejo,-7.69810745,110.28861828763134,0,0,1,0
+Sleman,Tempel,Lumbungrejo,-7.6470831,110.3254577548231,3,0,5,0
+Sleman,Tempel,Margorejo,-7.6594994,110.33191377806202,1,0,2,0
+Sleman,Tempel,Merdikorejo,-7.63608625,110.34476116670247,0,0,0,0
+Sleman,Tempel,Mororejo,-7.6693605,110.32051626924766,1,0,0,0
+Sleman,Tempel,Pondokrejo,-7.664024550000001,110.30655007318035,2,0,0,0
+Sleman,Tempel,Sumberejo,-7.67500355,110.3056002,0,0,0,0
+Sleman,Tempel,Tambakrejo,-7.68496605,110.30321941213982,0,0,0,0
+Sleman,Turi,Bangunkerto,-7.6440249,110.35739439401127,0,0,1,0
+Sleman,Turi,Donokerto,-7.6597927,110.3707183,0,0,2,0
+Sleman,Turi,Girikerto,-7.60950435,110.40030643422836,0,0,0,0
+Sleman,Turi,Wonokerto,-7.6148047000000005,110.37726110312886,0,0,0,0
+Kota Yogyakarta,Danurejan,Bausasran,-7.79936195,110.37318062143757,15,27,9,1
+Kota Yogyakarta,Danurejan,Tegalpanggung,-7.7934268,110.37113524966487,13,26,17,1
+Kota Yogyakarta,Danurejan,Suryatmajan,-7.79283925,110.36734046400403,13,34,44,2
+Kota Yogyakarta,Gedongtengen,Pringgokusuman,-7.792505,110.3586343930474,8,16,17,1
+Kota Yogyakarta,Gedongtengen,Sosromenduran,-7.78933775,110.36337628399158,12,33,46,2
+Kota Yogyakarta,Gondokusuman,Baciro,-7.7934704,110.38297251861113,27,18,4,1
+Kota Yogyakarta,Gondokusuman,Demangan,-7.78487125,110.39002924673885,34,31,35,2
+Kota Yogyakarta,Gondokusuman,Klitren,-7.783821,110.38338983475654,28,28,29,2
+Kota Yogyakarta,Gondokusuman,Kotabaru,-7.7868301,110.37343258872657,33,42,31,2
+Kota Yogyakarta,Gondokusuman,Terban,-7.7792947,110.37554368700373,18,50,50,2
+Kota Yogyakarta,Gondomanan,Ngupasan,-7.8046830499999995,110.37124783457662,16,18,12,1
+Kota Yogyakarta,Gondomanan,Prawirodirjan,-7.80084825,110.36645776489127,17,24,21,1
+Kota Yogyakarta,Jetis,Bumijo,-7.7848352,110.35947665812799,18,27,15,1
+Kota Yogyakarta,Jetis,Cokrodiningratan,-7.7784096,110.36792337904586,17,26,34,2
+Kota Yogyakarta,Jetis,Gowongan,-7.7859455,110.36591546774892,22,42,50,2
+Kota Yogyakarta,Kotagede,Prenggan,-7.8207434,110.39741934169618,9,6,15,1
+Kota Yogyakarta,Kotagede,Purbayan,-7.82675905,110.40265556395372,5,3,8,0
+Kota Yogyakarta,Kotagede,Rejowinangun,-7.8114664000000005,110.39829261749298,5,8,3,0
+Kota Yogyakarta,Kraton,Panembahan,-7.8086288,110.36618209490265,12,15,17,1
+Kota Yogyakarta,Kraton,Kadipaten,-7.80783795,110.35918707346804,17,10,13,1
+Kota Yogyakarta,Kraton,Patehan,-7.81090445,110.36070981683204,17,10,9,1
+Kota Yogyakarta,Mantrijeron,Gedongkiwo,-7.8171586,110.35401013561173,16,3,9,1
+Kota Yogyakarta,Mantrijeron,Suryodiningratan,-7.81975655,110.35914062029462,14,5,19,1
+Kota Yogyakarta,Mantrijeron,Mantrijeron,-7.81806685,110.3597311883563,14,6,20,1
+Kota Yogyakarta,Mergangsan,Brontokusuman,-7.8216755,110.37207746821993,9,9,18,1
+Kota Yogyakarta,Mergangsan,Keparakan,-7.81190505,110.3713591628831,39,17,13,1
+Kota Yogyakarta,Mergangsan,Wirogunan,-7.8088261,110.37630602833245,41,7,9,1
+Kota Yogyakarta,Ngampilan,Ngampilan,-7.80218335,110.35761519601635,27,10,5,1
+Kota Yogyakarta,Ngampilan,Notoprajan,-7.8047679500000005,110.35499736334282,30,9,6,1
+Kota Yogyakarta,Pakualaman,Gunungketur,-7.7992594,110.37863660827418,27,25,13,1
+Kota Yogyakarta,Pakualaman,Purwokinanti,-7.79298975,110.37544999654662,6,23,12,1
+Kota Yogyakarta,Tegalrejo,Bener,-7.776131449999999,110.35239335267944,18,5,4,1
+Kota Yogyakarta,Tegalrejo,Karangwaru,-7.77426865,110.3641123339658,28,12,11,1
+Kota Yogyakarta,Tegalrejo,Kricak,-7.773404,110.35693279725737,13,8,5,1
+Kota Yogyakarta,Tegalrejo,Tegalrejo,-7.78045495,110.355073023502,24,14,2,1
+Kota Yogyakarta,Umbulharjo,Pandeyan,-7.81831055,110.38840805560142,14,7,9,1
+Kota Yogyakarta,Umbulharjo,Sorosutan,-7.822414050000001,110.38092502639712,8,3,2,0
+Kota Yogyakarta,Umbulharjo,Giwangan,-7.8310545000000005,110.38951362026171,3,0,4,0
+Kota Yogyakarta,Umbulharjo,Warungboto,-7.80821305,110.39020589021263,26,7,15,1
+Kota Yogyakarta,Umbulharjo,Muja muju,-7.7986723,110.3927105636262,29,30,3,1
+Kota Yogyakarta,Umbulharjo,Semaki,-7.797846099999999,110.38373718275909,25,28,5,1
+Kota Yogyakarta,Umbulharjo,Tahunan,-7.8067426,110.38317148351118,13,9,7,1
+Kota Yogyakarta,Wirobrajan,Pakuncen,-7.79696465,110.351130831231,20,9,3,1
+Kota Yogyakarta,Wirobrajan,Patangpuluhan,-7.8097895,110.34893823400157,8,5,6,0
+Kota Yogyakarta,Wirobrajan,Wirobrajan,-7.802623799999999,110.35044668863907,22,4,3,1
