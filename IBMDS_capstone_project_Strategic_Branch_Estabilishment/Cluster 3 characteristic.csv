@@ -1,5 +1,15 @@
-Sub_District,Number_College_Venues,Number_Office_Venues,Number_Coffee_Venues,Customer_to_Competitor_r
-Gondokusuman,113,151,145,1.8206896551724139
-Jetis,39,68,84,1.2738095238095237
-Danurejan,13,34,44,1.0681818181818181
-Gedongtengen,12,33,46,0.9782608695652174
+Regency;Sub_District;Village;Latitude;Longitude;Number_College_Venues;Number_Office_Venues;Number_Coffee_Venues;Cluster_Label
+Kota Yogyakarta;Danurejan;Suryatmajan;-7.79283925;110.3673405;13;34;44;2
+Kota Yogyakarta;Gedongtengen;Sosromenduran;-7.78933775;110.3633763;12;33;46;2
+Kota Yogyakarta;Gondokusuman;Demangan;-7.78487125;110.3900292;34;31;35;2
+Kota Yogyakarta;Gondokusuman;Klitren;-7.783821;110.3833898;28;28;29;2
+Kota Yogyakarta;Gondokusuman;Kotabaru;-7.7868301;110.3734326;33;42;31;2
+Kota Yogyakarta;Gondokusuman;Terban;-7.7792947;110.3755437;18;50;50;2
+Kota Yogyakarta;Jetis;Cokrodiningratan;-7.7784096;110.3679234;17;26;34;2
+Kota Yogyakarta;Jetis;Gowongan;-7.7859455;110.3659155;22;42;50;2
+;;;;;;;;
+Sub_District;Number_College_Venues;Number_Office_Venues;Number_Coffee_Venues;Customer_to_Competitor_r;;;;
+Gondokusuman;113;151;145;1.820689655;;;;
+Jetis;39;68;84;1.273809524;;;;
+Danurejan;13;34;44;1.068181818;;;;
+Gedongtengen;12;33;46;0.97826087;;;;
