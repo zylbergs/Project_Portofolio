@@ -1,0 +1,6 @@
+{
+	"name": "machine_learning_apikey",
+	"description": "for project telcochurn, SVM model classification",
+	"createdAt": "2021-08-04T12:56+0000",
+	"apikey": "uXMdnshrf9yr3JzSFUJj62mUSn5CusDQuGYPKdkH8Jg9"
+}
